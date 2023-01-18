@@ -1,0 +1,4 @@
+
+renderNavigation()
+renderHero()
+renderProducts()
